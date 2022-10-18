@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @snnair
-- 👀 I’m interested in Rust Programming, Algorithms and Data Structures, Flutter, and Web Technologies
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on any open-source projects
+- 👀 I’m interested in Algorithms and Data Structures, Systems Design, and Web Technologies.
+- 💞️ I’m looking to collaborate on any open-source projects.
 - 📫 How to reach me - Reach out to me at sujitnandakumarnair@gmail.com
 
 <!---
