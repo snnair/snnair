@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @snnair
-- 👀 I’m interested in Algorithms and Data Structures, Systems Design, and Web Technologies.
-- 💞️ I’m looking to collaborate on any open-source projects.
+Software Engineer with a penchant for writing. Foss advocate, linux nerd, and a champion of logic. 
 - 📫 How to reach me - Reach out to me at sujitnandakumarnair@gmail.com
 
 <!---
